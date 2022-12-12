@@ -1,6 +1,7 @@
+![Banner](https://github.com/SpectreCreed/SpectreCreed/blob/main/SpectreCreed%20banner.gif)
 <h1 align="center">Hi 👋, I'm Chinmay Kumar Nayak</h1>
 <h3 align="center">A passionate developer and graphics designer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://twitter.com/i/status/1602133759184494593">
+<img align="right" alt="Coding" width="400" src="https://i2.wp.com/i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spectrecreed&label=Profile%20views&color=0e75b6&style=flat" alt="spectrecreed" /> </p>
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **chinmay.cbx@outlook.com**
 
-- ⚡ Fun fact **I am a Petrolhead.**
+- ⚡ Fun fact **I am a Petrolhead. 🏎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
