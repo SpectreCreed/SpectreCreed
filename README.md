@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/spectrecreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="spectrecreed" height="30" width="40" /></a>
 <a href="https://twitter.com/cbxtreme26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cbxtreme26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chinmay-kumar-nayak-3ab222172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay-kumar-nayak-3ab222172" height="30" width="40" /></a>
 <a href="https://instagram.com/spectrecreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spectrecreed" height="30" width="40" /></a>
