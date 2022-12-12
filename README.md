@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/SpectreCreed/SpectreCreed/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Chinmay Kumar Nayak</h1>
 <h3 align="center">A passionate developer and graphics designer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i2.wp.com/i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif">
