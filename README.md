@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **chinmay.cbx@outlook.com**
+- 📫 How to reach me **mailme.spectrecreed@gmail.com**
 
 - ⚡ Fun fact **I am a Petrolhead. 🏎**
 
